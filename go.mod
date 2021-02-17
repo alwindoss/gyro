@@ -1,3 +1,3 @@
 module github.com/alwindoss/gyro
 
-go 1.15
+go 1.16
